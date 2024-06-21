@@ -36,6 +36,7 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 
 # Honors and Awards
 
+- 06/2024: 2023 USTC SGY Rose Scholarship (New Lotus) 
 - AY 2023-2024: Howard and Jan Swearer Graduate Fellowship 
 - 06/2023: USTC Outstanding Undergraduate Award 
 - 06/2023: "Chia-Chiao Lin" Gold Medal (Top 1 in China), the 14<sup>th</sup> S.-T. Yau College Student Math Contest, Applied and Computational Math track 
