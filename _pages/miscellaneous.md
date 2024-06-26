@@ -80,3 +80,7 @@ redirect_from:
     </div>
     <p> </p>
 </center>
+
+---
+
+<a href="https://my.flightradar24.com/pilotjohnwu"><img src="https://banners-my.flightradar24.com/pilotjohnwu.png" alt="My Flightdiary.net profile" /></a>
