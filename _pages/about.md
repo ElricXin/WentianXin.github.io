@@ -109,7 +109,7 @@ United States
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/me-4.jpg" 
+        src = "../files/pictures/me-7.jpg" 
         width = "30%">
     <img style = "
         border-radius: 0.3125em;
