@@ -105,24 +105,6 @@ author_profile: true
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/2.jpg" 
-        width = "60%">
-    <br />
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        getting ready to ride
-    </div>
-    <p> </p>
-</center>
-
-<center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/3.jpg" 
         width = "60%">
     <br />
@@ -151,24 +133,6 @@ author_profile: true
         color: #999;
         padding: 2px;">
         my aerobike at the school gate
-    </div>
-    <p> </p>
-</center>
-
-<center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/7.jpg" 
-        width = "60%">
-    <br />
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        a chicken guarding our bikes
     </div>
     <p> </p>
 </center>
@@ -243,7 +207,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        local cycling club event (more than 100 people), Aug. 2023
+        local cycling club event (100+ participants), Aug. 2023
     </div>
     <p> </p>
 </center>
@@ -277,7 +241,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        tour of the Thousand Island Lake (more than 5000 people), Jun. 2024
+        tour of the Thousand Island Lake (5000+ participants), Jun. 2024
     </div>
     <p> </p>
 </center>
