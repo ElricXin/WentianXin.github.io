@@ -54,6 +54,11 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 - Spring 2022 at USTC: Undergraduate Teaching Assistant, Computational Methods B (Instructor: [Prof. Jingrun CHEN](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm "Prof. Jingrun CHEN's homepage"){:target="_blank"}). 
 
 
+# Posters and Presentations
+
+- 07/2024: Poster session, the 2024 International Congress of Basic Science (ICBS) 
+
+
 # Skills
 
 - Programming: C/C++, Matlab, Fortran 95/2003, Python, LaTeX 

@@ -70,6 +70,11 @@ author_profile: true
 - 2022年春学期于中国科大：计算方法B 助教 （授课教师：[陈景润 教授](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm "陈景润教授的个人主页"){:target="_blank"}）
 
 
+# 报告展出
+
+- 2024年7月：2024国际基础科学大会 海报展出 
+
+
 # 专业技能
 
 - 编程语言：C/C++, Matlab, Fortran 95/2003, Python, LaTeX 
