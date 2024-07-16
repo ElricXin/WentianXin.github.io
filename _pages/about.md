@@ -56,7 +56,7 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 
 # Posters and Presentations
 
-- 07/2024: Poster session, the 2024 International Congress of Basic Science (ICBS) 
+- 07/2024: [Poster](../files/poster/Yue_Wu_ICBS2024.pdf "ICBS2024 poster"){:target="_blank"} session, the 2024 International Congress of Basic Science (ICBS) 
 
 
 # Skills

@@ -72,7 +72,7 @@ author_profile: true
 
 # 报告展出
 
-- 2024年7月：2024国际基础科学大会 海报展出 
+- 2024年7月：2024国际基础科学大会 [海报](../files/poster/Yue_Wu_ICBS2024.pdf "ICBS2024海报"){:target="_blank"}展出 
 
 
 # 专业技能
