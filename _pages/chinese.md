@@ -28,7 +28,7 @@ author_profile: true
 
 # 预印本
 
-- **Yue Wu** and Yan Xu, "A high-order local discontinuous Galerkin method for the *p*-Laplace equation" (special issue in honor of Chi-Wang Shu's 65<sup>th</sup> birthday), submitted to *Beijing Journal of Pure and Applied Mathematics*, Nov. 2023. [arXiv:2311.09119](https://arxiv.org/abs/2311.09119 "arXiv链接"){:target="_blank"}. 
+- **Yue Wu** and Yan Xu, "A high-order local discontinuous Galerkin method for the *p*-Laplace equation" (special issue in honor of Chi-Wang Shu's 65<sup>th</sup> birthday), *Beijing Journal of Pure and Applied Mathematics*, to appear. [arXiv:2311.09119](https://arxiv.org/abs/2311.09119 "arXiv链接"){:target="_blank"}. 
 
 
 # 获奖情况
@@ -72,7 +72,7 @@ author_profile: true
 
 # 报告展出
 
-- 2024年7月：2024国际基础科学大会 [海报](../files/poster/Yue_Wu_ICBS2024.pdf "ICBS2024海报"){:target="_blank"}展出 
+- 2024年7月：2024国际基础科学大会 [海报](../files/poster/Yue_Wu_ICBS2024.pdf "ICBS2024海报"){:target="_blank"}展出，中国北京 
 
 
 # 专业技能
