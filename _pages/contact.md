@@ -11,8 +11,7 @@ Yue_Wu3 [at] Brown [dot] edu
 
 
 🏢**Office**: \
-Center for Computation and Visualization, Room 106 \
-180 George Street \
+Room 211, 170 Hope Street \
 Providence, RI 02906, USA 
 
 
