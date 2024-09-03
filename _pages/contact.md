@@ -11,13 +11,17 @@ Yue_Wu3 [at] Brown [dot] edu
 
 
 🏢**Office**: \
-Room 211, 170 Hope Street \
+<address>
+Room 211, 170 Hope Street <br />
 Providence, RI 02906, USA 
+</address>
 
 
 📫**Mail**: \
-Yue Wu \
-Division of Applied Mathematics \
-Brown University, Box F \
-182 George Street \
-Providence, RI 02912-9106, USA 
+<address>
+Yue Wu <br />
+Brown University <br />
+Box F <br />
+Providence, RI 02912-9106 <br />
+United States 
+</address>
