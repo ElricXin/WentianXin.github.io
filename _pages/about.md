@@ -13,7 +13,7 @@ redirect_from:
 
 # About
 
-**Yue Wu** is a Ph.D. student in the Division of Applied Mathematics at Brown University. His main research interests lie in numerical methods for partial differential equations. 
+**Yue Wu** is a Ph.D. candidate in the Division of Applied Mathematics at Brown University. His thesis advisor is [Prof. Chi-Wang SHU](https://www.dam.brown.edu/people/shu/ "Prof. Chi-Wang SHU' homepage"){:target="_blank"}. His main research interests lie in numerical methods for partial differential equations. 
 
 Outside of his academic life, he is an aviation enthusiast and enjoys road cycling, hiking and road trips. He grew up in [Wuxi](http://en.wuxi.gov.cn/ "Wuxi"){:target="_blank"}, a beautiful city in east China. 
 
@@ -23,7 +23,7 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 # Education
 
 - 09/2023 ~ Present: [Division of Applied Mathematics](https://appliedmath.brown.edu/ "APMA, Brown"){:target="_blank"}, [Brown University](https://www.brown.edu/ "Brown"){:target="_blank"} 
-    - Ph.D. Student in *Applied Mathematics* 
+    - Ph.D. Candidate in *Applied Mathematics* (Advisor: [Prof. Chi-Wang SHU](https://www.dam.brown.edu/people/shu/ "Prof. Chi-Wang SHU' homepage"){:target="_blank"}) 
 - 09/2019 ~ 06/2023: [School of the Gifted Young](https://en.scgy.ustc.edu.cn "SCGY, USTC"){:target="_blank"}, [University of Science and Technology of China](https://en.ustc.edu.cn "USTC"){:target="_blank"} 
     - B.Sc. in *Information & Computational Science* 
 - 09/2017 ~ 06/2019: Wuxi No. 1 High School 
@@ -51,8 +51,8 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 
 # Teaching Experiences
 
-- Spring 2022 at USTC: Teaching Assistant, Computational Methods B (Instructor: [Prof. Jingrun CHEN](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm "Prof. Jingrun CHEN's homepage"){:target="_blank"}). 
 - Fall 2024 at Brown: Teaching Assistant, Operations Research: Deterministic Models (Instructor: [Dr. Amalia V. CULIUC](https://appliedmath.brown.edu/people/amalia-culiuc "Dr. Amalia V. CULIUC's homepage"){:target="_blank"}). 
+- Spring 2022 at USTC: Teaching Assistant, Computational Methods B (Instructor: [Prof. Jingrun CHEN](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm "Prof. Jingrun CHEN's homepage"){:target="_blank"}). 
 
 
 # Posters and Presentations

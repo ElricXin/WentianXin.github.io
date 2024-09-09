@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Wu, Yue (吴越)" # title on the upper-left corner of the page
 title_separator          : "-"
 name                     : &name "Yue Wu (吴越)"
-description              : &description "Ph.D. Student"
+description              : &description "Ph.D. Candidate"
 url                      : https://yuewu2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YueWu2002/YueWu2002.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yue Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student"
+  bio              : "Ph.D. Candidate"
   location         : "Providence, RI, USA"
   employer         : "Brown University"
   uri              : "https://appliedmath.brown.edu/people/yue-wu" # URL

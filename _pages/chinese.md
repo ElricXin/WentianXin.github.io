@@ -10,7 +10,7 @@ author_profile: true
 
 # 个人简介
 
-**吴越**，男，无锡人。现为布朗大学应用数学系的博士生，于2023年秋季入学。目前的研究方向是数值分析与科学计算，主要内容为偏微分方程的高阶数值方法（有限元、间断有限元、谱元法、有限差分等）。
+**吴越**，男，无锡人。现为布朗大学应用数学系的博士生，于2023年秋季入学，导师是[舒其望 教授](https://www.dam.brown.edu/people/shu/ "舒其望教授的个人主页"){:target="_blank"}。目前的研究方向是数值分析与科学计算，主要内容为偏微分方程的高阶数值方法（有限元、间断有限元、谱元法、有限差分等）。
 
 英文简历：点击[此处](../files/cv.pdf "吴越的简历"){:target="_blank"} 
 
@@ -20,7 +20,7 @@ author_profile: true
 # 教育背景
 
 - 2023年9月 ~ 现今：[布朗大学](https://www.brown.edu/ "布朗大学官网"){:target="_blank"}，[应用数学系](https://appliedmath.brown.edu/ "布朗大学应用数学系主页"){:target="_blank"} 
-    - 博士研究生 
+    - 博士研究生 (导师：[舒其望 教授](https://www.dam.brown.edu/people/shu/ "舒其望教授的个人主页"){:target="_blank"}) 
 - 2019年9月 ~ 2023年6月：[中国科学技术大学](https://www.ustc.edu.cn/ "中国科学技术大学"){:target="_blank"}，[少年班学院](https://sgy.ustc.edu.cn/ "中国科学技术大学少年班学院"){:target="_blank"} 
     - 信息与计算科学 理学学士 
 - 2017年9月 ~ 2019年6月：无锡市第一中学 
@@ -67,8 +67,8 @@ author_profile: true
 
 # 教学经历
 
-- 2022年春学期于中国科大：计算方法B 助教 （授课教师：[陈景润 教授](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm "陈景润教授的个人主页"){:target="_blank"}）
 - 2024年秋学期于布朗大学：运筹学：确定性模型 助教 （授课教师：[Amalia V. CULIUC](https://appliedmath.brown.edu/people/amalia-culiuc "Amalia V. CULIUC 的个人主页"){:target="_blank"}）
+- 2022年春学期于中国科大：计算方法B 助教 （授课教师：[陈景润 教授](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm "陈景润教授的个人主页"){:target="_blank"}）
 
 
 # 报告展出
