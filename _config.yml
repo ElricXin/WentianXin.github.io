@@ -27,7 +27,7 @@ author:
   bio              : "Ph.D. Candidate"
   location         : "Providence, RI, USA"
   employer         : "Brown University"
-  uri              : "https://appliedmath.brown.edu/people/yue-wu" # URL
+  uri              : # URL
   email            : "yue_wu3@brown.edu"
 
   # Academic websites
