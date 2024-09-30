@@ -31,7 +31,7 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 
 # Preprints
 
-- **Yue Wu** and Yan Xu, A high-order local discontinuous Galerkin method for the *p*-Laplace equation (special issue in honor of Chi-Wang Shu's 65<sup>th</sup> birthday), *Beijing J. of Pure and Appl. Math.*, to appear. [arXiv:2311.09119](https://arxiv.org/abs/2311.09119 "arXiv link"){:target="_blank"}. 
+- **Yue Wu** and Yan Xu, A high-order local discontinuous Galerkin method for the \\(p\\)-Laplace equation, *Beijing Journal of Pure and Applied Mathematics*, to appear. [arXiv:2311.09119](https://arxiv.org/abs/2311.09119 "arXiv link"){:target="_blank"}. 
 
 
 # Honors and Awards
@@ -110,7 +110,7 @@ United States
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/me-3.jpg" 
+        src = "../files/pictures/me-8.jpg" 
         width = "30%">
     <img style = "
         border-radius: 0.3125em;
