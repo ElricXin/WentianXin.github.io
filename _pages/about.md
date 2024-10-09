@@ -38,9 +38,7 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 
 - 06/2024: New Lotus Award, SGY Rose Scholarship 2023 
 - 06/2023: USTC Outstanding Undergraduate Award 
-- 06/2023: "Chia-Chiao Lin" Gold Medal (Top 1 in China), the 14<sup>th</sup> S.-T. Yau College Student Math Contest, Applied and Computational Math track 
-- 06/2023: Team Silver Medal, the 14<sup>th</sup> S.-T. Yau College Student Math Contest, team competition track 
-- 06/2023: Excellence Prize, the 14<sup>th</sup> S.-T. Yau College Student Math Contest, Analysis and PDEs track 
+- 06/2023: "Chia-Chiao Lin" Gold Medal in Applied and Computational Math track (Top 1 in China) & Team Silver Medal & Excellence Prize in Analysis and PDEs track, the 14<sup>th</sup> S.-T. Yau College Student Math Contest 
 - 10/2022: Gold Prize, USTC Outstanding Student Scholarship 
 - 08/2022: Excellence Prize, the 13<sup>th</sup> S.-T. Yau College Student Math Contest, Analysis and PDEs track 
 - 12/2021: China National Scholarship 
