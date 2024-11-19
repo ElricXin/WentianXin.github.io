@@ -1,7 +1,7 @@
 ---
 # layout: archive # too wide
 permalink: /
-title: "Welcome to Yue Wu’s homepage!"
+title: "Welcome to Wentian Xin’s homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,12 +13,11 @@ redirect_from:
 
 # About
 
-**Yue Wu** is a Ph.D. candidate in the Division of Applied Mathematics at Brown University. His thesis advisor is [Prof. Chi-Wang SHU](https://www.dam.brown.edu/people/shu/ "Prof. Chi-Wang SHU' homepage"){:target="_blank"}. His main research interests lie in numerical methods for partial differential equations. 
+**Wentian Xin** is  is working as a postdoctoral teacher at Dalian Maritime University, Dalian, China. 
 
-Outside of his academic life, he is an aviation enthusiast and enjoys road cycling, hiking and road trips. He grew up in [Wuxi](http://en.wuxi.gov.cn/ "Wuxi"){:target="_blank"}, a beautiful city in east China. 
+He has published papers in international multimedia conferences, such as TMM, ACMMM, ICME, etc., and won the Best Paper Award of the PRCV 2023 as the first author. He serves as reviewers for PATTERN RECOGNITION, Journal of Big Data, ACMMM, Scientific Reports, NEUROCOMPUTING, etc. 
 
-Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}. 
-
+His research interest is computer vision, human action recognition, embodied Intelligence and multimodal fusion.
 
 # Education
 
