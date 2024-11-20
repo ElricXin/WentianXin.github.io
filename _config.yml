@@ -21,7 +21,7 @@ repository               : "elricxin.github.io/WentianXin.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "wentianxin.jpg"
   name             : "Wentian Xin"
   pronouns         : # example: "she/her"  
   bio              : "Teaching Postdoctor"
