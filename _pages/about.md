@@ -42,8 +42,8 @@ His research interest is computer vision, human action recognition, embodied Int
 
 - 10/2023 First author of the Best Paper Award, The 6th China Conference on Pattern Recognition and Computer Vision (PRCV2023)
 - 09/2023 China National Scholarships for doctoral students
-- 05/2023 Third Prize, China Electronics Technology Group school-Enterprise Joint Scholarship
-- 09/2022 Third Prize, Xidian University Academic Scholarship
+- 05/2023 First Prize, China Electronics Technology Group school-Enterprise Joint Scholarship
+- 09/2022 First Prize, Xidian University Academic Scholarship
 - 2020-2024 Four times supported by Xidian graduate Student Innovation Fund
 
 # Reviewers
