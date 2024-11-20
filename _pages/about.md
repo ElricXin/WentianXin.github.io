@@ -13,7 +13,7 @@ redirect_from:
 
 # About
 
-**Wentian Xin** is working as a postdoctoral teacher at Dalian Maritime University, Dalian, China. 
+**Wentian Xin (辛文天)** is working as a postdoctoral teacher at Dalian Maritime University, Dalian, China. 
 
 He has published papers in international conferences and journals, such as TMM, TIM, ACMMM, ICME, Neurocomputing, etc. 
 
