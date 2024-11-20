@@ -12,7 +12,7 @@ title                    : "Wentian, Xin (辛文天)" # title on the upper-left 
 title_separator          : "-"
 name                     : &name "Wentian Xin (辛文天)"
 description              : &description "Teaching Postdoctor"
-url                      : https://WentianXin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://elricxin.github.io/WentianXin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "elricxin.github.io/WentianXin.github.io/"
 
