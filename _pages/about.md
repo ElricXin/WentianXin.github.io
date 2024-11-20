@@ -1,7 +1,7 @@
 ---
 # layout: archive # too wide
 permalink: /
-title: "Welcome to Wentian Xin’s homepage!"
+title:
 author_profile: true
 redirect_from: 
   - /about/
