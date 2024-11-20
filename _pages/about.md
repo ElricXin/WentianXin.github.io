@@ -31,12 +31,12 @@ His research interest is computer vision, human action recognition, embodied Int
 
 # Publications
 
--	**Wentian Xin** (The First Author), Qiguang Miao*, et al. Skeleton MixFormer: Multivariate Topology Representation for Skeleton-based Action Recognition. Proceedings of the 31st ACM International Conference on Multimedia (ACMMM 2023). CCF A.
+-	**Wentian Xin** (First Author), Qiguang Miao*, et al. Skeleton MixFormer: Multivariate Topology Representation for Skeleton-based Action Recognition. Proceedings of the 31st ACM International Conference on Multimedia (ACMMM 2023). CCF A.
 - Qiguang Miao, **Wentian Xin** (Student First Author), et al. Adaptive Pitfall: Exploring the Effectiveness of Adaptation in Skeleton-based Action Recognition. IEEE Transaction on Multimedia. 2024. JCR Q1 Top，CCF B.
--	**Wentian Xin** (The First Author), Qiguang Miao*, et al. Auto-Learning-GCN: An Ingenious Framework for Skeleton-Based Action Recognition. The 6th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2023). **Best Paper Award**. CCF C.
--	**Wentian Xin** (The First Author), Qiguang Miao*, et al. Is Really Correlation Information Represented Well in Self-Attention for Skeleton-based Action Recognition? 2023 IEEE International Conference on Multimedia and Expo (ICME). Oral for the Topic of Action Recognition. CCF B.
--	**Wentian Xin** (The First Author), Qiguang Miao*, et al. Transformer for Skeleton-based Action Recognition: A Review of Recent Advances. Neurocomputing. 2023. JCR Q1 Top，CCF C.
--	Ruyi Liu, Yi Liu, **Wentian Xin*** (Co-corresponding author), Qiguang Miao*, et al. Action Jitter Killer: Joint Noise Optimization Cascade for Skeleton-based Action Recognition. IEEE Transactions on Instrumentation and Measurement. JCR Q1 Top，CCF C.
+-	**Wentian Xin** (First Author), Qiguang Miao*, et al. Auto-Learning-GCN: An Ingenious Framework for Skeleton-Based Action Recognition. The 6th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2023). **Best Paper Award**. CCF C.
+-	**Wentian Xin** (First Author), Qiguang Miao*, et al. Is Really Correlation Information Represented Well in Self-Attention for Skeleton-based Action Recognition? 2023 IEEE International Conference on Multimedia and Expo (ICME). Oral for the Topic of Action Recognition. CCF B.
+-	**Wentian Xin** (First Author), Qiguang Miao*, et al. Transformer for Skeleton-based Action Recognition: A Review of Recent Advances. Neurocomputing. 2023. JCR Q1 Top，CCF C.
+-	Ruyi Liu, Yi Liu, **Wentian Xin*** (Co-corresponding Author), Qiguang Miao*, et al. Action Jitter Killer: Joint Noise Optimization Cascade for Skeleton-based Action Recognition. IEEE Transactions on Instrumentation and Measurement. JCR Q1 Top，CCF C.
 
 # Honors and Awards
 
