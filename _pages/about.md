@@ -13,9 +13,9 @@ redirect_from:
 
 # About
 
-**Wentian Xin (辛文天)** is working as a postdoctoral teacher at Dalian Maritime University, Dalian, China. 
+**Wentian Xin** is working as a postdoctoral teacher at Dalian Maritime University, Dalian, China. 
 
-He has published papers in international conferences and journals, such as TMM, TIM, ACMMM, ICME, Neurocomputing, etc., and won the Best Paper Award of the PRCV 2023 as the first author. 
+He has published papers in international conferences and journals, such as TMM, TIM, ACMMM, ICME, Neurocomputing, etc. 
 
 His research interest is computer vision, human action recognition, embodied Intelligence and multimodal fusion. [Google Scholar](https://scholar.google.com/citations?user=rHMU9JcAAAAJ&hl=en "Google Scholar link")
 
@@ -58,5 +58,4 @@ His research interest is computer vision, human action recognition, embodied Int
 - International Journal of Machine Learning and Cybernetics
 - Cluster Computing
 - Journal of Real-Time Image Processing
----
 
