@@ -22,7 +22,7 @@ His research interest is computer vision, human action recognition, embodied Int
 # Education
 
 - 09/2024 ~ Present: School of Information Science and Technology, Dalian Maritime University
-    - Teaching Doctoral, Liaoning Province Underwater Robot Engineering Research Center, Advisor: Prof. Xianping Fu 
+    - Teaching Doctoral, Underwater Robot Engineering Research Center, Advisor: Prof. Xianping Fu 
 - 09/2018 ~ 09/2024: School of Computer Science and Technology, Xidian University 
     - Ph.D, Key Laboratory of Big Data and Intelligent Vision, Advisor: Prof. Qiguang Miao
 - 09/2014 ~ 06/2018: School of Artificial Intelligence, Nankai University
