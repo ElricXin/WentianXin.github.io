@@ -11,7 +11,7 @@ locale                   : "Dalian-CN"
 title                    : "Wentian, Xin (辛文天)" # title on the upper-left corner of the page
 title_separator          : "-"
 name                     : &name "Wentian Xin (辛文天)"
-description              : &description "Teaching Postdoctor"
+description              : &description "Postdoctoral Lecturer"
 url                      : https://elricxin.github.io/WentianXin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "elricxin.github.io/WentianXin.github.io/"
@@ -24,7 +24,7 @@ author:
   avatar           : "wentianxin.png"
   name             : "Wentian Xin"
   pronouns         : # example: "she/her"  
-  bio              : "Teaching Postdoctor"
+  bio              : "Postdoctoral Lecturer"
   location         : "Dalian, China"
   employer         : "Dalian Maritime University"
   uri              : # URL
