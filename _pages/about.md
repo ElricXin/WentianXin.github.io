@@ -13,7 +13,7 @@ redirect_from:
 
 # About
 
-**Wentian Xin (辛文天)** is working as a postdoctoral teacher at Dalian Maritime University, Dalian, China. 
+**Wentian Xin (辛文天)** is working as a postdoctoral lecturer at Dalian Maritime University, Dalian, China. 
 
 He has published papers in international conferences and journals, such as TMM, TIM, ACMMM, ICME, Neurocomputing, etc. 
 
@@ -22,7 +22,7 @@ His research interest is computer vision, human action recognition, embodied Int
 # Education
 
 - 09/2024 ~ Present: School of Information Science and Technology, Dalian Maritime University
-    - Teaching Doctoral, Underwater Robot Engineering Research Center, Advisor: Prof. Xianping Fu 
+    - Postdoctoral Lecturer, Underwater Robot Engineering Research Center, Advisor: Prof. Xianping Fu 
 - 09/2018 ~ 09/2024: School of Computer Science and Technology, Xidian University 
     - Ph.D, Key Laboratory of Big Data and Intelligent Vision, Advisor: Prof. Qiguang Miao
 - 09/2014 ~ 06/2018: School of Artificial Intelligence, Nankai University
