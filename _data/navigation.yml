@@ -33,5 +33,5 @@ main:
   #- title: "Contact"
   # url: /contact/
 
-  - title: "中文"
-    url: /zh_cn/
+  #- title: "中文"
+  #  url: /zh_cn/
