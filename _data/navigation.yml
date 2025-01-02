@@ -3,8 +3,8 @@ main:
   #- title: "CV"
   #  url: /cv/
 
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
 
   #- title: "Publications"
   #  url: /publications/
@@ -15,11 +15,11 @@ main:
   #- title: "Teaching"
   #  url: /teaching/
 
-  - title: "Sports"
-    url: /sports/
+  #- title: "Sports"
+  #  url: /sports/
 
-  - title: "Misc"
-    url: /miscellaneous/
+  #- title: "Misc"
+  #  url: /miscellaneous/
     
   #- title: "Portfolio"
   #  url: /portfolio/
