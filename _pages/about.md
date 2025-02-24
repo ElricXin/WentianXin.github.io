@@ -37,7 +37,7 @@ His research interest is computer vision, human action recognition, embodied Int
 -	**Wentian Xin** (First Author), Qiguang Miao*, et al. Is Really Correlation Information Represented Well in Self-Attention for Skeleton-based Action Recognition? 2023 IEEE International Conference on Multimedia and Expo (ICME). **Oral for the Topic of Action Recognition**. CCF B.
 -	**Wentian Xin** (First Author), Qiguang Miao*, et al. Transformer for Skeleton-based Action Recognition: A Review of Recent Advances. Neurocomputing. 2023. JCR Q1 Top，CCF C.
 -	Ruyi Liu, Yi Liu, **Wentian Xin*** (Co-corresponding Author), Qiguang Miao*, et al. Action Jitter Killer: Joint Noise Optimization Cascade for Skeleton-based Action Recognition. IEEE Transactions on Instrumentation and Measurement. JCR Q1 Top，CCF C.
--	Ruyi Liu, Yi Liu, Mengyao Wu, **Wentian Xin***, Qiguang Miao*, et al. SG-CLR: Semantic representation-guided contrastive learning for self-supervised skeleton-based action recognition. Pattern Recognition. JCR Q1 Top，CCF B.
+-	Ruyi Liu, Yi Liu, Mengyao Wu, **Wentian Xin**, Qiguang Miao*, et al. SG-CLR: Semantic representation-guided contrastive learning for self-supervised skeleton-based action recognition. Pattern Recognition. JCR Q1 Top，CCF B.
 
 # Honors and Awards
 
