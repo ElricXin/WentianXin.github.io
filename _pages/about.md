@@ -15,7 +15,7 @@ redirect_from:
 
 **Wentian Xin (辛文天)** is working as a postdoctoral lecturer at Dalian Maritime University, Dalian, China. 
 
-He has published papers in international conferences and journals, such as TMM, TIM, ACMMM, ICME, Neurocomputing, etc. 
+He has published papers in international conferences and journals, such as TMM, TIM, ACMMM, ICME, PR, Neurocomputing, etc. 
 
 His research interest is computer vision, human action recognition, embodied Intelligence and multimodal fusion. [Google Scholar](https://scholar.google.com/citations?user=rHMU9JcAAAAJ&hl=en "Google Scholar link")
 
