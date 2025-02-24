@@ -38,7 +38,7 @@ His research interest is computer vision, human action recognition, embodied Int
 -	**Wentian Xin** (First Author), Qiguang Miao*, et al. Transformer for Skeleton-based Action Recognition: A Review of Recent Advances. Neurocomputing. 2023. JCR Q1 Top，CCF C.
 -	Ruyi Liu, Yi Liu, **Wentian Xin*** (Co-corresponding Author), Qiguang Miao*, et al. Action Jitter Killer: Joint Noise Optimization Cascade for Skeleton-based Action Recognition. IEEE Transactions on Instrumentation and Measurement. JCR Q1 Top，CCF C.
 -	Ruyi Liu, Yi Liu, Mengyao Wu, **Wentian Xin**, Qiguang Miao*, et al. SG-CLR: Semantic representation-guided contrastive learning for self-supervised skeleton-based action recognition. Pattern Recognition. JCR Q1 Top，CCF B.
--	Yi Liu, Ruyi Liu, **Wentian Xin**, et al. Language-Skeleton Pre-training to Collaborate with Self-Supervised Human Action Recognition. The 7th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2024). **Oral**. CCF C.
+-	Yi Liu, Ruyi Liu, **Wentian Xin**, et al. Language-Skeleton Pre-training to Collaborate with Self-Supervised Human Action Recognition. The 7th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2024). Oral. CCF C.
 
 # Honors and Awards
 
